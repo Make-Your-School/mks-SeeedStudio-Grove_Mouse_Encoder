@@ -30,7 +30,17 @@ Der Sensor kann beispielsweise eingesetzt werden, um die Drehgeschwindigkeit ein
 
 Alle weiteren Hintergrundinformationen sowie ein Beispielaufbau und alle notwendigen Programmbibliotheken sind auf dem offiziellen Wiki (bisher nur in englischer Sprache) von Seeed Studio zusammengefasst. Zusätzlich findet man über alle gängigen Suchmaschinen durch die Eingabe der genauen Komponentenbezeichnung entsprechende Projektbeispiele und Tutorials.
 
+
+## Beispiel
+
+schau dir das Minimal-Beispiel an:
+
+```c++:public/mks/parts/mks-SeeedStudio-Grove_Mouse_Encoder/examples/Grove_Mouse_Encoder_minimal/Grove_Mouse_Encoder_minimal.ino
+// look in the linked file.
+```
+
 <!-- infolist -->
+
 ## Wichtige Links für die ersten Schritte:
 
 - [Seeed Studio Wiki](http://wiki.seeedstudio.com/Grove-Mouse_Encoder/) [- Drehgeschwindigkeitssensor](http://wiki.seeedstudio.com/Grove-Mouse_Encoder/)
